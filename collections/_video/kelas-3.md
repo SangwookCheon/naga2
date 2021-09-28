@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Inggris
+title: Kelas 3
 cover: /assets/images/subjects/english.jpg
 ---
 

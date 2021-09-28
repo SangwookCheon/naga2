@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Komputer
+title: Kelas 4
 cover: /assets/images/subjects/digital.jpg
 ---
 

@@ -217,15 +217,13 @@ plugins:
 collections_dir: collections
 
 collections:
-  subjects:
+  video:
     output: true
     permalink: /video/:name
-  matematika:
+  kelas-1:
     output: true
-    permalink: /video/matematika/:name
-  matematika_y1:
-    output: true
+    permalink: /video/kelas-1/:name
   Groups:
     output: true
-  Individuals:
+  videos:
     output: true
