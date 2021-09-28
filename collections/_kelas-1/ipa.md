@@ -1,12 +1,8 @@
 ---
 layout: article
-title: Year 2 Matematika
-aside:
-  toc: true
-sidebar:
-  nav: matematika_y1
+title: IPA
+show_date: false
 cover: /assets/images/subjects/math.jpg
-key: mathematics_y1_intro
 ---
 Welcome to Mathematics Year 1!
 
