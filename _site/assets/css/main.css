@@ -1049,18 +1049,18 @@ a > .item__header.disabled, a > .item__header:disabled, a.item__header.disabled,
 .navigation__item--active::after { border: 0 solid #ffcb74; border-bottom-width: 4px; }
 
 /** Site Info */
-.footer { display: -webkit-box; display: -webkit-flex; display: -moz-flex; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; -webkit-align-items: center; -moz-align-items: center; align-items: center; color: #fff; background: #0A2A66; }
+.footer { display: -webkit-box; display: -webkit-flex; display: -moz-flex; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; -webkit-align-items: center; -moz-align-items: center; align-items: center; color: #000; background: #fff; }
 .footer a { -webkit-transition: all 0s ease-in-out; transition: all 0s ease-in-out; }
 .footer a, .footer a:link, .footer a:visited { text-decoration: none; }
 .root[data-is-touch="false"] .footer a:hover { text-decoration: underline; }
 .root[data-is-touch] .footer a.active, .root[data-is-touch] .footer a:active { text-decoration: none; }
-.footer a, .footer a:link, .footer a:visited { color: #fff; }
+.footer a, .footer a:link, .footer a:visited { color: #000; }
 .root[data-is-touch="false"] .footer a:hover { color: #ffcb74; }
 .root[data-is-touch] .footer a.active, .root[data-is-touch] .footer a:active { color: #ffae28; }
-.footer a.disabled, .footer a:disabled { color: rgba(255, 255, 255, 0.2) !important; }
+.footer a.disabled, .footer a:disabled { color: rgba(0, 0, 0, 0.2) !important; }
 .footer .site-info { font-size: 0.7rem; text-align: center; }
 .footer .site-info .menu { line-height: 1.2; }
-.footer .site-info .menu > *:not(:last-child) { border: 0 solid #fff; border-right-width: 1px; padding-right: 0.25rem; margin-right: 0.25rem; }
+.footer .site-info .menu > *:not(:last-child) { border: 0 solid #000; border-right-width: 1px; padding-right: 0.25rem; margin-right: 0.25rem; }
 
 .footer__author-links { overflow: auto; -webkit-overflow-scrolling: touch; }
 .footer__author-links .author-links { text-align: center; }

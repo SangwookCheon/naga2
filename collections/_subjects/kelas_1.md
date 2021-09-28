@@ -1,6 +1,6 @@
 ---
 layout: articles
-title: Matematika
+title: Kelas 1
 articles:
   data_source: site.matematika
   show_excerpt: true

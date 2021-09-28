@@ -27,10 +27,10 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : organization # "person" (default), "organization"
-  name      : Plugged-IN
+  name      :
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : We are a team of students at JIS providing online resources for students learning at home.
+  bio       :
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -219,10 +219,10 @@ collections_dir: collections
 collections:
   subjects:
     output: true
-    permalink: /subjects/:name
+    permalink: /video/:name
   matematika:
     output: true
-    permalink: /subjects/matematika/:name
+    permalink: /video/matematika/:name
   matematika_y1:
     output: true
   Groups:

@@ -39,9 +39,11 @@ $text-background-color: rgba(#000, .05);
 $header-text-color: black;
 $header-background: #ffffff;
 
-$footer-text-color: $text-color-1;
+// $footer-text-color: $text-color-1;
+$footer-text-color: #000;
 // $footer-background: #d4f4c6;
-$footer-background: #0A2A66;
+// $footer-background: #0A2A66;
+$footer-background: $background-color;
 
 // border and shadow colors
 $border-color:     mix(#000, $background-color, 20%);
