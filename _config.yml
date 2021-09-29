@@ -223,6 +223,8 @@ collections:
   kelas-1:
     output: true
     permalink: /video/kelas-1/:name
+  buku:
+    output: true
   Groups:
     output: true
   videos:

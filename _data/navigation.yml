@@ -1,10 +1,10 @@
 header:
   - title: Video
     url: /video.html
-  - title: Jelajahi
+  - title: Buku
     url: /explore/index.html
-  - title: Kreator
-    url: /creators.html
+  # - title: Kreator
+  #   url: /creators.html
   - title: Arsip
     url: /archive.html
 
